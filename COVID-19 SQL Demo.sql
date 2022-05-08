@@ -1,12 +1,11 @@
-
 --Data Import Tests
---Select * 
---from [Portfolio Project]..CovidDeaths
---order by 3,4
+SELECT * 
+FROM [Portfolio Project]..CovidDeaths
+ORDER BY 3,4
 
---Select * 
--- from [Portfolio Project]..CovidVaccinations
--- order by 3,4
+SELECT * 
+FROM [Portfolio Project]..CovidVaccinations
+ORDER BY 3,4
 
 
 -- Basic Data selection example
